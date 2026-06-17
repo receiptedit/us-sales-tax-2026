@@ -1,0 +1,110 @@
+state,state_code,lodging_tax_name,rate_pct
+Alabama,AL,State Lodgings Tax,6.33
+Alabama,AL,Local Lodging Tax,5.02
+Alaska,AK,Local Lodging Tax,5.73
+Arizona,AZ,State Transaction Privilege Tax (TPT),6.07
+Arizona,AZ,County and City Lodging Tax,5.88
+Arkansas,AR,State Sales Tax,6.34
+Arkansas,AR,State Tourism Tax,5.55
+Arkansas,AR,Local Lodging Tax,5.21
+California,CA,Occupancy Room Tax,6.61
+California,CA,Transient Occupancy Tax (TOT),6.73
+California,CA,Tourism Assessment Fee,5.89
+Colorado,CO,State Sales Tax,6.07
+Colorado,CO,Local Lodging Tax,5.88
+Colorado,CO,Local Marketing District Tax,5.55
+Connecticut,CT,State Lodging Tax,6.34
+Delaware,DE,State Lodging Tax,6.61
+Florida,FL,State Sales Tax,6.07
+Florida,FL,Local Discretionary Sales Surtax,5.88
+Florida,FL,Tourist Development Tax,5.55
+Georgia,GA,State Sales Tax,6.34
+Georgia,GA,Local Hotel-Motel Tax,5.55
+Georgia,GA,State Hotel-Motel Fee,5.21
+Hawaii,HI,Transient Accommodations Tax (TAT),7.62
+Hawaii,HI,General Excise Tax (GET),5.71
+Idaho,ID,State Sales Tax,10.42
+Idaho,ID,Travel and Convention Tax,11.26
+Idaho,ID,Local Lodging Tax,11.44
+Illinois,IL,State Hotel Operators' Occupation Tax,5.63
+Illinois,IL,Local Hotel Tax,10.02
+Indiana,IN,State Sales Tax,6.73
+Indiana,IN,County Innkeeper's Tax,2.59
+Iowa,IA,State Sales Tax,8.89
+Iowa,IA,Local Hotel-Motel Tax,11.35
+Kansas,KS,State Sales Tax,7.32
+Kansas,KS,Transient Guest Tax,6.67
+Kentucky,KY,State Transient Room Tax,9.24
+Kentucky,KY,Local Transient Room Tax,6.51
+Kentucky,KY,State Sales Tax,6.45
+Louisiana,LA,State Sales Tax,8.7
+Louisiana,LA,Local Parish Hotel Tax,11.44
+Louisiana,LA,Tourism Promotion District Tax,5.5
+Maine,ME,State Lodging Tax,5.1
+Maryland,MD,State Sales Tax,7.87
+Maryland,MD,County or City Hotel Tax,3.27
+Massachusetts,MA,State Room Occupancy Tax,7.62
+Massachusetts,MA,Local Option Room Tax,5.71
+Michigan,MI,State Use Tax,10.42
+Michigan,MI,Convention and Tourism Tax (in certain areas),11.26
+Minnesota,MN,State Sales Tax,5.63
+Minnesota,MN,Local Lodging Tax,10.02
+Minnesota,MN,Tourism Promotion Tax (varies by city),2.02
+Mississippi,MS,State Sales Tax,6.73
+Mississippi,MS,Local Tourism and Convention Tax,2.59
+Missouri,MO,State Sales Tax,8.89
+Missouri,MO,Local Lodging Tax,11.35
+Montana,MT,State Lodging Facility Use Tax,7.32
+Montana,MT,State Sales Tax,6.67
+Nebraska,NE,State Sales Tax,9.24
+Nebraska,NE,Local Occupancy Tax,6.51
+Nevada,NV,State Lodging Tax,8.7
+Nevada,NV,Local Room Tax,11.44
+New Hampshire,NH,State Meals and Rooms Tax,5.82
+New Jersey,NJ,State Sales and Use Tax,7.54
+New Jersey,NJ,State Occupancy Fee,3.13
+New Jersey,NJ,Local Occupancy Tax,5.89
+New Mexico,NM,State Gross Receipts Tax,5.1
+New Mexico,NM,Lodgers' Tax,7.55
+New York,NY,State Sales Tax,7.87
+New York,NY,NYC Hotel Occupancy Tax (if applicable),3.27
+New York,NY,Javits Center Fee (in NYC),6.67
+North Carolina,NC,State Sales Tax,6.07
+North Carolina,NC,Local Occupancy Tax,5.88
+North Dakota,ND,State Sales Tax,6.34
+North Dakota,ND,Local Lodging Tax,5.55
+Ohio,OH,State Sales Tax,6.61
+Ohio,OH,County Lodging Tax,6.73
+Oklahoma,OK,State Sales Tax,6.07
+Oklahoma,OK,Local Lodging Tax,5.88
+Oregon,OR,State Lodging Tax,6.34
+Oregon,OR,Local Transient Lodging Tax,5.55
+Pennsylvania,PA,State Hotel Occupancy Tax,7.62
+Pennsylvania,PA,Local Hotel Tax,5.71
+Rhode Island,RI,State Hotel Tax,10.42
+Rhode Island,RI,Local Hotel Tax,11.26
+South Carolina,SC,State Sales Tax,5.63
+South Carolina,SC,State Accommodations Tax,10.02
+South Carolina,SC,Local Hospitality Tax,2.02
+South Dakota,SD,State Sales Tax,6.73
+South Dakota,SD,Tourism Tax,2.59
+South Dakota,SD,Municipal Lodging Tax,5.1
+Tennessee,TN,State Sales Tax,8.89
+Tennessee,TN,Local Hotel Occupancy Tax,11.35
+Texas,TX,State Hotel Occupancy Tax,7.32
+Texas,TX,Local Hotel Occupancy Tax,6.67
+Utah,UT,State Sales Tax,9.24
+Utah,UT,Transient Room Tax,6.51
+Utah,UT,Local Tourism Tax,6.45
+Vermont,VT,State Meals and Rooms Tax,8.7
+Virginia,VA,State Sales Tax,9.96
+Virginia,VA,Local Transient Occupancy Tax,11.43
+Washington,WA,State Sales Tax,6.25
+Washington,WA,Special Lodging Tax,7.03
+Washington,WA,Convention and Trade Center Tax (in some areas),1.53
+West Virginia,WV,State Sales Tax,6.07
+West Virginia,WV,Local Hotel Occupancy Tax,5.11
+Wisconsin,WI,State Sales Tax,4.94
+Wisconsin,WI,Local Room Tax,7.82
+Wyoming,WY,State Sales Tax,4.26
+Wyoming,WY,Local Lodging Tax,4.39

@@ -1,0 +1,51 @@
+state,state_code,slug,nickname,state_sales_tax_pct,avg_combined_sales_tax_pct,grocery_tax_status,top_5_cities,lodging_tax_count,lodging_taxes_total_pct
+Alabama,AL,alabama,Yellowhammer State,4.0,9.29,taxed,Birmingham; Mobile; Montgomery; Huntsville; Tuscaloosa,2,11.35
+Alaska,AK,alaska,The Last Frontier,0.0,1.82,taxed,Anchorage; Fairbanks; Juneau; Kodiak; Wasilla,1,5.73
+Arizona,AZ,arizona,Grand Canyon State,5.6,8.37,exempt,Phoenix; Tucson; Mesa; Scottsdale; Glendale,2,11.95
+Arkansas,AR,arkansas,Natural State,6.5,9.45,reduced,Little Rock; Fort Smith; North Little Rock; Hot Springs National Park; Pine Bluff,3,17.1
+California,CA,california,Golden State,7.25,8.85,exempt,Sacramento; Los Angeles; San Diego; San Francisco; San Jose,3,19.23
+Colorado,CO,colorado,Centennial State,2.9,7.81,exempt,Denver; Colorado Springs; Aurora; Littleton; Boulder,3,17.5
+Connecticut,CT,connecticut,Constitution State,6.35,6.35,exempt,Hartford; New Haven; Stamford; Waterbury; Bridgeport,1,6.34
+Delaware,DE,delaware,First State,0.0,0.0,taxed,Wilmington; Newark; Dover; New Castle; Bear,1,6.61
+Florida,FL,florida,Sunshine State,6.0,7.0,exempt,Miami; Orlando; Tampa; Jacksonville; Fort Lauderdale,3,17.5
+Georgia,GA,georgia,Peach State,4.0,7.38,exempt,Atlanta; Macon; Savannah; Augusta; Columbus,3,17.1
+Hawaii,HI,hawaii,Aloha State,4.0,4.5,taxed,Honolulu; Kapolei; Hilo; Kahului; Kailua Kona,2,13.33
+Idaho,ID,idaho,Gem State,6.0,6.02,taxed,Boise; Idaho Falls; Pocatello; Nampa; Rexburg,3,33.12
+Illinois,IL,illinois,Prairie State,6.25,8.85,reduced,Chicago; Springfield; Peoria; Rockford; Schaumburg,2,15.65
+Indiana,IN,indiana,Hoosier State,7.0,7.0,exempt,Indianapolis; Fort Wayne; Evansville; South Bend; Terre Haute,2,9.32
+Iowa,IA,iowa,Hawkeye State,6.0,6.94,exempt,Des Moines; Cedar Rapids; Sioux City; Davenport; Waterloo,2,20.24
+Kansas,KS,kansas,Sunflower State,6.5,8.66,reduced,Topeka; Wichita; Shawnee Mission; Kansas City; Lawrence,2,13.99
+Kentucky,KY,kentucky,Bluegrass State,6.0,6.0,exempt,Louisville; Lexington; Frankfort; Migrate; London,3,22.2
+Louisiana,LA,louisiana,Pelican State,4.45,9.55,exempt,New Orleans; Baton Rouge; Shreveport; Metairie; Lafayette,3,25.64
+Maine,ME,maine,Pine Tree State,5.5,5.5,exempt,Portland; Augusta; Freeport; Auburn; Lewiston,1,5.1
+Maryland,MD,maryland,Old Line State,6.0,6.0,exempt,Baltimore; Silver Spring; Bethesda; Gaithersburg; Ridgely,2,11.14
+Massachusetts,MA,massachusetts,Bay State,6.25,6.25,exempt,Boston; Springfield; Worcester; Woburn; Cambridge,2,13.33
+Michigan,MI,michigan,Great Lakes State,6.0,6.0,exempt,Detroit; Grand Rapids; Lansing; Flint; Saginaw,2,21.68
+Minnesota,MN,minnesota,North Star State,6.875,7.5,exempt,Minneapolis; Saint Paul; Young America; Monticello; Duluth,3,17.67
+Mississippi,MS,mississippi,Magnolia State,7.0,7.07,taxed,Jackson; Meridian; Hattiesburg; Gulfport; Biloxi,2,9.32
+Missouri,MO,missouri,Show-Me State,4.225,8.39,reduced,Kansas City; Saint Louis; Springfield; Jefferson City; Columbia,2,20.24
+Montana,MT,montana,Treasure State,0.0,0.0,taxed,Billings; Helena; Missoula; Bozeman; Great Falls,2,13.99
+Nebraska,NE,nebraska,Cornhusker State,5.5,6.94,exempt,Omaha; Lincoln; Kearney; Bellevue; Grand Island,2,15.75
+Nevada,NV,nevada,Silver State,6.85,8.24,exempt,Las Vegas; Reno; Henderson; Carson City; North Las Vegas,2,20.14
+New Hampshire,NH,new-hampshire,Granite State,0.0,0.0,taxed,Manchester; Nashua; Concord; Portsmouth; Rochester,1,5.82
+New Jersey,NJ,new-jersey,Garden State,6.625,6.6,exempt,Trenton; Newark; Paterson; Jersey City; New Brunswick,3,16.56
+New Mexico,NM,new-mexico,Land of Enchantment,4.875,7.62,exempt,Albuquerque; Santa Fe; Las Cruces; Hobbs; Gallup,2,12.65
+New York,NY,new-york,Empire State,4.0,8.53,exempt,New York; Brooklyn; Albany; Rochester; Buffalo,3,17.81
+North Carolina,NC,north-carolina,Tar Heel State,4.75,6.99,exempt,Charlotte; Raleigh; Greensboro; Winston Salem; Durham,2,11.95
+North Dakota,ND,north-dakota,Peace Garden State,5.0,6.97,exempt,Fargo; Bismarck; Grand Forks; Minot; Wahpeton,2,11.89
+Ohio,OH,ohio,Buckeye State,5.75,7.24,exempt,Cincinnati; Dayton; Columbus; Cleveland; Toledo,2,13.34
+Oklahoma,OK,oklahoma,Sooner State,4.5,8.99,taxed,Oklahoma City; Tulsa; Norman; Lawton; Enid,2,11.95
+Oregon,OR,oregon,Beaver State,0.0,0.0,taxed,Portland; Salem; Beaverton; Eugene; Bend,2,11.89
+Pennsylvania,PA,pennsylvania,Keystone State,6.0,6.34,exempt,Philadelphia; Pittsburgh; Erie; Harrisburg; Wilkes Barre,2,13.33
+Rhode Island,RI,rhode-island,Ocean State,7.0,7.0,exempt,Providence; Warwick; Pawtucket; Cranston; Newport,2,21.68
+South Carolina,SC,south-carolina,Palmetto State,6.0,7.5,exempt,Columbia; Greenville; Charleston; Spartanburg; Myrtle Beach,3,17.67
+South Dakota,SD,south-dakota,Mount Rushmore State,4.2,6.4,taxed,Sioux Falls; Rapid City; Brookings; Yankton; Milbank,3,14.42
+Tennessee,TN,tennessee,Volunteer State,7.0,9.55,reduced,Memphis; Nashville; Knoxville; Chattanooga; Murfreesboro,2,20.24
+Texas,TX,texas,Lone Star State,6.25,8.2,exempt,Houston; El Paso; Dallas; San Antonio; Austin,2,13.99
+Utah,UT,utah,Beehive State,6.1,7.2,reduced,Salt Lake City; Ogden; Sandy; Provo; Orem,3,22.2
+Vermont,VT,vermont,Green Mountain State,6.0,6.36,exempt,Montpelier; Brattleboro; Burlington; Colchester; White River Junction,1,8.7
+Virginia,VA,virginia,Old Dominion,5.3,5.77,reduced,Richmond; Roanoke; Arlington; Norfolk; Alexandria,2,21.39
+Washington,WA,washington,Evergreen State,6.5,9.38,exempt,Seattle; Tacoma; Spokane; Vancouver; Olympia,3,14.81
+West Virginia,WV,west-virginia,Mountain State,6.0,6.55,exempt,Charleston; Huntington; Morgantown; Parkersburg; Mineral Wells,2,11.18
+Wisconsin,WI,wisconsin,Badger State,5.0,5.43,exempt,Milwaukee; Madison; Green Bay; Racine; Appleton,2,12.76
+Wyoming,WY,wyoming,Equality State,4.0,5.44,exempt,Cheyenne; Casper; Laramie; Gillette; Rock Springs,2,8.65

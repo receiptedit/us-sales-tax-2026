@@ -1,0 +1,1351 @@
+{
+  "metadata": {
+    "name": "US State Sales Tax Dataset",
+    "version": "2026.1",
+    "data_year": 2026,
+    "last_updated": "2026-06-17",
+    "total_states": 50,
+    "source": "https://receiptedit.com/sales-tax",
+    "api": "https://receiptedit.com/api/sales-tax",
+    "license": "MIT (attribution required)",
+    "attribution": "Compiled by ReceiptEdit (https://receiptedit.com). Please credit when used."
+  },
+  "states": [
+    {
+      "name": "Alabama",
+      "code": "AL",
+      "slug": "alabama",
+      "salesTaxRate": 4.0,
+      "avgCombinedTaxRate": 9.29,
+      "groceryTaxed": false,
+      "nickname": "Yellowhammer State",
+      "topCities": [
+        "Birmingham",
+        "Mobile",
+        "Montgomery",
+        "Huntsville",
+        "Tuscaloosa"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Lodgings Tax",
+          "amount": 6.33
+        },
+        {
+          "name": "Local Lodging Tax",
+          "amount": 5.02
+        }
+      ]
+    },
+    {
+      "name": "Alaska",
+      "code": "AK",
+      "slug": "alaska",
+      "salesTaxRate": 0.0,
+      "avgCombinedTaxRate": 1.82,
+      "groceryTaxed": false,
+      "nickname": "The Last Frontier",
+      "topCities": [
+        "Anchorage",
+        "Fairbanks",
+        "Juneau",
+        "Kodiak",
+        "Wasilla"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "Local Lodging Tax",
+          "amount": 5.73
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "code": "AZ",
+      "slug": "arizona",
+      "salesTaxRate": 5.6,
+      "avgCombinedTaxRate": 8.37,
+      "groceryTaxed": true,
+      "nickname": "Grand Canyon State",
+      "topCities": [
+        "Phoenix",
+        "Tucson",
+        "Mesa",
+        "Scottsdale",
+        "Glendale"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Transaction Privilege Tax (TPT)",
+          "amount": 6.07
+        },
+        {
+          "name": "County and City Lodging Tax",
+          "amount": 5.88
+        }
+      ]
+    },
+    {
+      "name": "Arkansas",
+      "code": "AR",
+      "slug": "arkansas",
+      "salesTaxRate": 6.5,
+      "avgCombinedTaxRate": 9.45,
+      "groceryTaxed": "reduced",
+      "nickname": "Natural State",
+      "topCities": [
+        "Little Rock",
+        "Fort Smith",
+        "North Little Rock",
+        "Hot Springs National Park",
+        "Pine Bluff"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 6.34
+        },
+        {
+          "name": "State Tourism Tax",
+          "amount": 5.55
+        },
+        {
+          "name": "Local Lodging Tax",
+          "amount": 5.21
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "code": "CA",
+      "slug": "california",
+      "salesTaxRate": 7.25,
+      "avgCombinedTaxRate": 8.85,
+      "groceryTaxed": true,
+      "nickname": "Golden State",
+      "topCities": [
+        "Sacramento",
+        "Los Angeles",
+        "San Diego",
+        "San Francisco",
+        "San Jose"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "Occupancy Room Tax",
+          "amount": 6.61
+        },
+        {
+          "name": "Transient Occupancy Tax (TOT)",
+          "amount": 6.73
+        },
+        {
+          "name": "Tourism Assessment Fee",
+          "amount": 5.89
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "code": "CO",
+      "slug": "colorado",
+      "salesTaxRate": 2.9,
+      "avgCombinedTaxRate": 7.81,
+      "groceryTaxed": true,
+      "nickname": "Centennial State",
+      "topCities": [
+        "Denver",
+        "Colorado Springs",
+        "Aurora",
+        "Littleton",
+        "Boulder"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 6.07
+        },
+        {
+          "name": "Local Lodging Tax",
+          "amount": 5.88
+        },
+        {
+          "name": "Local Marketing District Tax",
+          "amount": 5.55
+        }
+      ]
+    },
+    {
+      "name": "Connecticut",
+      "code": "CT",
+      "slug": "connecticut",
+      "salesTaxRate": 6.35,
+      "avgCombinedTaxRate": 6.35,
+      "groceryTaxed": true,
+      "nickname": "Constitution State",
+      "topCities": [
+        "Hartford",
+        "New Haven",
+        "Stamford",
+        "Waterbury",
+        "Bridgeport"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Lodging Tax",
+          "amount": 6.34
+        }
+      ]
+    },
+    {
+      "name": "Delaware",
+      "code": "DE",
+      "slug": "delaware",
+      "salesTaxRate": 0.0,
+      "avgCombinedTaxRate": 0.0,
+      "groceryTaxed": false,
+      "nickname": "First State",
+      "topCities": [
+        "Wilmington",
+        "Newark",
+        "Dover",
+        "New Castle",
+        "Bear"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Lodging Tax",
+          "amount": 6.61
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "slug": "florida",
+      "salesTaxRate": 6.0,
+      "avgCombinedTaxRate": 7.0,
+      "groceryTaxed": true,
+      "nickname": "Sunshine State",
+      "topCities": [
+        "Miami",
+        "Orlando",
+        "Tampa",
+        "Jacksonville",
+        "Fort Lauderdale"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 6.07
+        },
+        {
+          "name": "Local Discretionary Sales Surtax",
+          "amount": 5.88
+        },
+        {
+          "name": "Tourist Development Tax",
+          "amount": 5.55
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "slug": "georgia",
+      "salesTaxRate": 4.0,
+      "avgCombinedTaxRate": 7.38,
+      "groceryTaxed": true,
+      "nickname": "Peach State",
+      "topCities": [
+        "Atlanta",
+        "Macon",
+        "Savannah",
+        "Augusta",
+        "Columbus"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 6.34
+        },
+        {
+          "name": "Local Hotel-Motel Tax",
+          "amount": 5.55
+        },
+        {
+          "name": "State Hotel-Motel Fee",
+          "amount": 5.21
+        }
+      ]
+    },
+    {
+      "name": "Hawaii",
+      "code": "HI",
+      "slug": "hawaii",
+      "salesTaxRate": 4.0,
+      "avgCombinedTaxRate": 4.5,
+      "groceryTaxed": false,
+      "nickname": "Aloha State",
+      "topCities": [
+        "Honolulu",
+        "Kapolei",
+        "Hilo",
+        "Kahului",
+        "Kailua Kona"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "Transient Accommodations Tax (TAT)",
+          "amount": 7.62
+        },
+        {
+          "name": "General Excise Tax (GET)",
+          "amount": 5.71
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "code": "ID",
+      "slug": "idaho",
+      "salesTaxRate": 6.0,
+      "avgCombinedTaxRate": 6.02,
+      "groceryTaxed": false,
+      "nickname": "Gem State",
+      "topCities": [
+        "Boise",
+        "Idaho Falls",
+        "Pocatello",
+        "Nampa",
+        "Rexburg"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 10.42
+        },
+        {
+          "name": "Travel and Convention Tax",
+          "amount": 11.26
+        },
+        {
+          "name": "Local Lodging Tax",
+          "amount": 11.44
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "slug": "illinois",
+      "salesTaxRate": 6.25,
+      "avgCombinedTaxRate": 8.85,
+      "groceryTaxed": "reduced",
+      "nickname": "Prairie State",
+      "topCities": [
+        "Chicago",
+        "Springfield",
+        "Peoria",
+        "Rockford",
+        "Schaumburg"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Hotel Operators' Occupation Tax",
+          "amount": 5.63
+        },
+        {
+          "name": "Local Hotel Tax",
+          "amount": 10.02
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
+      "slug": "indiana",
+      "salesTaxRate": 7.0,
+      "avgCombinedTaxRate": 7.0,
+      "groceryTaxed": true,
+      "nickname": "Hoosier State",
+      "topCities": [
+        "Indianapolis",
+        "Fort Wayne",
+        "Evansville",
+        "South Bend",
+        "Terre Haute"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 6.73
+        },
+        {
+          "name": "County Innkeeper's Tax",
+          "amount": 2.59
+        }
+      ]
+    },
+    {
+      "name": "Iowa",
+      "code": "IA",
+      "slug": "iowa",
+      "salesTaxRate": 6.0,
+      "avgCombinedTaxRate": 6.94,
+      "groceryTaxed": true,
+      "nickname": "Hawkeye State",
+      "topCities": [
+        "Des Moines",
+        "Cedar Rapids",
+        "Sioux City",
+        "Davenport",
+        "Waterloo"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 8.89
+        },
+        {
+          "name": "Local Hotel-Motel Tax",
+          "amount": 11.35
+        }
+      ]
+    },
+    {
+      "name": "Kansas",
+      "code": "KS",
+      "slug": "kansas",
+      "salesTaxRate": 6.5,
+      "avgCombinedTaxRate": 8.66,
+      "groceryTaxed": "reduced",
+      "nickname": "Sunflower State",
+      "topCities": [
+        "Topeka",
+        "Wichita",
+        "Shawnee Mission",
+        "Kansas City",
+        "Lawrence"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 7.32
+        },
+        {
+          "name": "Transient Guest Tax",
+          "amount": 6.67
+        }
+      ]
+    },
+    {
+      "name": "Kentucky",
+      "code": "KY",
+      "slug": "kentucky",
+      "salesTaxRate": 6.0,
+      "avgCombinedTaxRate": 6.0,
+      "groceryTaxed": true,
+      "nickname": "Bluegrass State",
+      "topCities": [
+        "Louisville",
+        "Lexington",
+        "Frankfort",
+        "Migrate",
+        "London"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Transient Room Tax",
+          "amount": 9.24
+        },
+        {
+          "name": "Local Transient Room Tax",
+          "amount": 6.51
+        },
+        {
+          "name": "State Sales Tax",
+          "amount": 6.45
+        }
+      ]
+    },
+    {
+      "name": "Louisiana",
+      "code": "LA",
+      "slug": "louisiana",
+      "salesTaxRate": 4.45,
+      "avgCombinedTaxRate": 9.55,
+      "groceryTaxed": true,
+      "nickname": "Pelican State",
+      "topCities": [
+        "New Orleans",
+        "Baton Rouge",
+        "Shreveport",
+        "Metairie",
+        "Lafayette"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 8.7
+        },
+        {
+          "name": "Local Parish Hotel Tax",
+          "amount": 11.44
+        },
+        {
+          "name": "Tourism Promotion District Tax",
+          "amount": 5.5
+        }
+      ]
+    },
+    {
+      "name": "Maine",
+      "code": "ME",
+      "slug": "maine",
+      "salesTaxRate": 5.5,
+      "avgCombinedTaxRate": 5.5,
+      "groceryTaxed": true,
+      "nickname": "Pine Tree State",
+      "topCities": [
+        "Portland",
+        "Augusta",
+        "Freeport",
+        "Auburn",
+        "Lewiston"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Lodging Tax",
+          "amount": 5.1
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
+      "slug": "maryland",
+      "salesTaxRate": 6.0,
+      "avgCombinedTaxRate": 6.0,
+      "groceryTaxed": true,
+      "nickname": "Old Line State",
+      "topCities": [
+        "Baltimore",
+        "Silver Spring",
+        "Bethesda",
+        "Gaithersburg",
+        "Ridgely"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 7.87
+        },
+        {
+          "name": "County or City Hotel Tax",
+          "amount": 3.27
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "slug": "massachusetts",
+      "salesTaxRate": 6.25,
+      "avgCombinedTaxRate": 6.25,
+      "groceryTaxed": true,
+      "nickname": "Bay State",
+      "topCities": [
+        "Boston",
+        "Springfield",
+        "Worcester",
+        "Woburn",
+        "Cambridge"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Room Occupancy Tax",
+          "amount": 7.62
+        },
+        {
+          "name": "Local Option Room Tax",
+          "amount": 5.71
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
+      "slug": "michigan",
+      "salesTaxRate": 6.0,
+      "avgCombinedTaxRate": 6.0,
+      "groceryTaxed": true,
+      "nickname": "Great Lakes State",
+      "topCities": [
+        "Detroit",
+        "Grand Rapids",
+        "Lansing",
+        "Flint",
+        "Saginaw"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Use Tax",
+          "amount": 10.42
+        },
+        {
+          "name": "Convention and Tourism Tax (in certain areas)",
+          "amount": 11.26
+        }
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "code": "MN",
+      "slug": "minnesota",
+      "salesTaxRate": 6.875,
+      "avgCombinedTaxRate": 7.5,
+      "groceryTaxed": true,
+      "nickname": "North Star State",
+      "topCities": [
+        "Minneapolis",
+        "Saint Paul",
+        "Young America",
+        "Monticello",
+        "Duluth"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 5.63
+        },
+        {
+          "name": "Local Lodging Tax",
+          "amount": 10.02
+        },
+        {
+          "name": "Tourism Promotion Tax (varies by city)",
+          "amount": 2.02
+        }
+      ]
+    },
+    {
+      "name": "Mississippi",
+      "code": "MS",
+      "slug": "mississippi",
+      "salesTaxRate": 7.0,
+      "avgCombinedTaxRate": 7.07,
+      "groceryTaxed": false,
+      "nickname": "Magnolia State",
+      "topCities": [
+        "Jackson",
+        "Meridian",
+        "Hattiesburg",
+        "Gulfport",
+        "Biloxi"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 6.73
+        },
+        {
+          "name": "Local Tourism and Convention Tax",
+          "amount": 2.59
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "slug": "missouri",
+      "salesTaxRate": 4.225,
+      "avgCombinedTaxRate": 8.39,
+      "groceryTaxed": "reduced",
+      "nickname": "Show-Me State",
+      "topCities": [
+        "Kansas City",
+        "Saint Louis",
+        "Springfield",
+        "Jefferson City",
+        "Columbia"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 8.89
+        },
+        {
+          "name": "Local Lodging Tax",
+          "amount": 11.35
+        }
+      ]
+    },
+    {
+      "name": "Montana",
+      "code": "MT",
+      "slug": "montana",
+      "salesTaxRate": 0.0,
+      "avgCombinedTaxRate": 0.0,
+      "groceryTaxed": false,
+      "nickname": "Treasure State",
+      "topCities": [
+        "Billings",
+        "Helena",
+        "Missoula",
+        "Bozeman",
+        "Great Falls"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Lodging Facility Use Tax",
+          "amount": 7.32
+        },
+        {
+          "name": "State Sales Tax",
+          "amount": 6.67
+        }
+      ]
+    },
+    {
+      "name": "Nebraska",
+      "code": "NE",
+      "slug": "nebraska",
+      "salesTaxRate": 5.5,
+      "avgCombinedTaxRate": 6.94,
+      "groceryTaxed": true,
+      "nickname": "Cornhusker State",
+      "topCities": [
+        "Omaha",
+        "Lincoln",
+        "Kearney",
+        "Bellevue",
+        "Grand Island"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 9.24
+        },
+        {
+          "name": "Local Occupancy Tax",
+          "amount": 6.51
+        }
+      ]
+    },
+    {
+      "name": "Nevada",
+      "code": "NV",
+      "slug": "nevada",
+      "salesTaxRate": 6.85,
+      "avgCombinedTaxRate": 8.24,
+      "groceryTaxed": true,
+      "nickname": "Silver State",
+      "topCities": [
+        "Las Vegas",
+        "Reno",
+        "Henderson",
+        "Carson City",
+        "North Las Vegas"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Lodging Tax",
+          "amount": 8.7
+        },
+        {
+          "name": "Local Room Tax",
+          "amount": 11.44
+        }
+      ]
+    },
+    {
+      "name": "New Hampshire",
+      "code": "NH",
+      "slug": "new-hampshire",
+      "salesTaxRate": 0.0,
+      "avgCombinedTaxRate": 0.0,
+      "groceryTaxed": false,
+      "nickname": "Granite State",
+      "topCities": [
+        "Manchester",
+        "Nashua",
+        "Concord",
+        "Portsmouth",
+        "Rochester"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Meals and Rooms Tax",
+          "amount": 5.82
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "slug": "new-jersey",
+      "salesTaxRate": 6.625,
+      "avgCombinedTaxRate": 6.6,
+      "groceryTaxed": true,
+      "nickname": "Garden State",
+      "topCities": [
+        "Trenton",
+        "Newark",
+        "Paterson",
+        "Jersey City",
+        "New Brunswick"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales and Use Tax",
+          "amount": 7.54
+        },
+        {
+          "name": "State Occupancy Fee",
+          "amount": 3.13
+        },
+        {
+          "name": "Local Occupancy Tax",
+          "amount": 5.89
+        }
+      ]
+    },
+    {
+      "name": "New Mexico",
+      "code": "NM",
+      "slug": "new-mexico",
+      "salesTaxRate": 4.875,
+      "avgCombinedTaxRate": 7.62,
+      "groceryTaxed": true,
+      "nickname": "Land of Enchantment",
+      "topCities": [
+        "Albuquerque",
+        "Santa Fe",
+        "Las Cruces",
+        "Hobbs",
+        "Gallup"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Gross Receipts Tax",
+          "amount": 5.1
+        },
+        {
+          "name": "Lodgers' Tax",
+          "amount": 7.55
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "slug": "new-york",
+      "salesTaxRate": 4.0,
+      "avgCombinedTaxRate": 8.53,
+      "groceryTaxed": true,
+      "nickname": "Empire State",
+      "topCities": [
+        "New York",
+        "Brooklyn",
+        "Albany",
+        "Rochester",
+        "Buffalo"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 7.87
+        },
+        {
+          "name": "NYC Hotel Occupancy Tax (if applicable)",
+          "amount": 3.27
+        },
+        {
+          "name": "Javits Center Fee (in NYC)",
+          "amount": 6.67
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "slug": "north-carolina",
+      "salesTaxRate": 4.75,
+      "avgCombinedTaxRate": 6.99,
+      "groceryTaxed": true,
+      "nickname": "Tar Heel State",
+      "topCities": [
+        "Charlotte",
+        "Raleigh",
+        "Greensboro",
+        "Winston Salem",
+        "Durham"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 6.07
+        },
+        {
+          "name": "Local Occupancy Tax",
+          "amount": 5.88
+        }
+      ]
+    },
+    {
+      "name": "North Dakota",
+      "code": "ND",
+      "slug": "north-dakota",
+      "salesTaxRate": 5.0,
+      "avgCombinedTaxRate": 6.97,
+      "groceryTaxed": true,
+      "nickname": "Peace Garden State",
+      "topCities": [
+        "Fargo",
+        "Bismarck",
+        "Grand Forks",
+        "Minot",
+        "Wahpeton"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 6.34
+        },
+        {
+          "name": "Local Lodging Tax",
+          "amount": 5.55
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "slug": "ohio",
+      "salesTaxRate": 5.75,
+      "avgCombinedTaxRate": 7.24,
+      "groceryTaxed": true,
+      "nickname": "Buckeye State",
+      "topCities": [
+        "Cincinnati",
+        "Dayton",
+        "Columbus",
+        "Cleveland",
+        "Toledo"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 6.61
+        },
+        {
+          "name": "County Lodging Tax",
+          "amount": 6.73
+        }
+      ]
+    },
+    {
+      "name": "Oklahoma",
+      "code": "OK",
+      "slug": "oklahoma",
+      "salesTaxRate": 4.5,
+      "avgCombinedTaxRate": 8.99,
+      "groceryTaxed": false,
+      "nickname": "Sooner State",
+      "topCities": [
+        "Oklahoma City",
+        "Tulsa",
+        "Norman",
+        "Lawton",
+        "Enid"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 6.07
+        },
+        {
+          "name": "Local Lodging Tax",
+          "amount": 5.88
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "code": "OR",
+      "slug": "oregon",
+      "salesTaxRate": 0.0,
+      "avgCombinedTaxRate": 0.0,
+      "groceryTaxed": false,
+      "nickname": "Beaver State",
+      "topCities": [
+        "Portland",
+        "Salem",
+        "Beaverton",
+        "Eugene",
+        "Bend"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Lodging Tax",
+          "amount": 6.34
+        },
+        {
+          "name": "Local Transient Lodging Tax",
+          "amount": 5.55
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "slug": "pennsylvania",
+      "salesTaxRate": 6.0,
+      "avgCombinedTaxRate": 6.34,
+      "groceryTaxed": true,
+      "nickname": "Keystone State",
+      "topCities": [
+        "Philadelphia",
+        "Pittsburgh",
+        "Erie",
+        "Harrisburg",
+        "Wilkes Barre"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Hotel Occupancy Tax",
+          "amount": 7.62
+        },
+        {
+          "name": "Local Hotel Tax",
+          "amount": 5.71
+        }
+      ]
+    },
+    {
+      "name": "Rhode Island",
+      "code": "RI",
+      "slug": "rhode-island",
+      "salesTaxRate": 7.0,
+      "avgCombinedTaxRate": 7.0,
+      "groceryTaxed": true,
+      "nickname": "Ocean State",
+      "topCities": [
+        "Providence",
+        "Warwick",
+        "Pawtucket",
+        "Cranston",
+        "Newport"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Hotel Tax",
+          "amount": 10.42
+        },
+        {
+          "name": "Local Hotel Tax",
+          "amount": 11.26
+        }
+      ]
+    },
+    {
+      "name": "South Carolina",
+      "code": "SC",
+      "slug": "south-carolina",
+      "salesTaxRate": 6.0,
+      "avgCombinedTaxRate": 7.5,
+      "groceryTaxed": true,
+      "nickname": "Palmetto State",
+      "topCities": [
+        "Columbia",
+        "Greenville",
+        "Charleston",
+        "Spartanburg",
+        "Myrtle Beach"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 5.63
+        },
+        {
+          "name": "State Accommodations Tax",
+          "amount": 10.02
+        },
+        {
+          "name": "Local Hospitality Tax",
+          "amount": 2.02
+        }
+      ]
+    },
+    {
+      "name": "South Dakota",
+      "code": "SD",
+      "slug": "south-dakota",
+      "salesTaxRate": 4.2,
+      "avgCombinedTaxRate": 6.4,
+      "groceryTaxed": false,
+      "nickname": "Mount Rushmore State",
+      "topCities": [
+        "Sioux Falls",
+        "Rapid City",
+        "Brookings",
+        "Yankton",
+        "Milbank"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 6.73
+        },
+        {
+          "name": "Tourism Tax",
+          "amount": 2.59
+        },
+        {
+          "name": "Municipal Lodging Tax",
+          "amount": 5.1
+        }
+      ]
+    },
+    {
+      "name": "Tennessee",
+      "code": "TN",
+      "slug": "tennessee",
+      "salesTaxRate": 7.0,
+      "avgCombinedTaxRate": 9.55,
+      "groceryTaxed": "reduced",
+      "nickname": "Volunteer State",
+      "topCities": [
+        "Memphis",
+        "Nashville",
+        "Knoxville",
+        "Chattanooga",
+        "Murfreesboro"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 8.89
+        },
+        {
+          "name": "Local Hotel Occupancy Tax",
+          "amount": 11.35
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "code": "TX",
+      "slug": "texas",
+      "salesTaxRate": 6.25,
+      "avgCombinedTaxRate": 8.2,
+      "groceryTaxed": true,
+      "nickname": "Lone Star State",
+      "topCities": [
+        "Houston",
+        "El Paso",
+        "Dallas",
+        "San Antonio",
+        "Austin"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Hotel Occupancy Tax",
+          "amount": 7.32
+        },
+        {
+          "name": "Local Hotel Occupancy Tax",
+          "amount": 6.67
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "code": "UT",
+      "slug": "utah",
+      "salesTaxRate": 6.1,
+      "avgCombinedTaxRate": 7.2,
+      "groceryTaxed": "reduced",
+      "nickname": "Beehive State",
+      "topCities": [
+        "Salt Lake City",
+        "Ogden",
+        "Sandy",
+        "Provo",
+        "Orem"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 9.24
+        },
+        {
+          "name": "Transient Room Tax",
+          "amount": 6.51
+        },
+        {
+          "name": "Local Tourism Tax",
+          "amount": 6.45
+        }
+      ]
+    },
+    {
+      "name": "Vermont",
+      "code": "VT",
+      "slug": "vermont",
+      "salesTaxRate": 6.0,
+      "avgCombinedTaxRate": 6.36,
+      "groceryTaxed": true,
+      "nickname": "Green Mountain State",
+      "topCities": [
+        "Montpelier",
+        "Brattleboro",
+        "Burlington",
+        "Colchester",
+        "White River Junction"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Meals and Rooms Tax",
+          "amount": 8.7
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "code": "VA",
+      "slug": "virginia",
+      "salesTaxRate": 5.3,
+      "avgCombinedTaxRate": 5.77,
+      "groceryTaxed": "reduced",
+      "nickname": "Old Dominion",
+      "topCities": [
+        "Richmond",
+        "Roanoke",
+        "Arlington",
+        "Norfolk",
+        "Alexandria"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 9.96
+        },
+        {
+          "name": "Local Transient Occupancy Tax",
+          "amount": 11.43
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "code": "WA",
+      "slug": "washington",
+      "salesTaxRate": 6.5,
+      "avgCombinedTaxRate": 9.38,
+      "groceryTaxed": true,
+      "nickname": "Evergreen State",
+      "topCities": [
+        "Seattle",
+        "Tacoma",
+        "Spokane",
+        "Vancouver",
+        "Olympia"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 6.25
+        },
+        {
+          "name": "Special Lodging Tax",
+          "amount": 7.03
+        },
+        {
+          "name": "Convention and Trade Center Tax (in some areas)",
+          "amount": 1.53
+        }
+      ]
+    },
+    {
+      "name": "West Virginia",
+      "code": "WV",
+      "slug": "west-virginia",
+      "salesTaxRate": 6.0,
+      "avgCombinedTaxRate": 6.55,
+      "groceryTaxed": true,
+      "nickname": "Mountain State",
+      "topCities": [
+        "Charleston",
+        "Huntington",
+        "Morgantown",
+        "Parkersburg",
+        "Mineral Wells"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 6.07
+        },
+        {
+          "name": "Local Hotel Occupancy Tax",
+          "amount": 5.11
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin",
+      "code": "WI",
+      "slug": "wisconsin",
+      "salesTaxRate": 5.0,
+      "avgCombinedTaxRate": 5.43,
+      "groceryTaxed": true,
+      "nickname": "Badger State",
+      "topCities": [
+        "Milwaukee",
+        "Madison",
+        "Green Bay",
+        "Racine",
+        "Appleton"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 4.94
+        },
+        {
+          "name": "Local Room Tax",
+          "amount": 7.82
+        }
+      ]
+    },
+    {
+      "name": "Wyoming",
+      "code": "WY",
+      "slug": "wyoming",
+      "salesTaxRate": 4.0,
+      "avgCombinedTaxRate": 5.44,
+      "groceryTaxed": true,
+      "nickname": "Equality State",
+      "topCities": [
+        "Cheyenne",
+        "Casper",
+        "Laramie",
+        "Gillette",
+        "Rock Springs"
+      ],
+      "lodgingTaxes": [
+        {
+          "name": "State Sales Tax",
+          "amount": 4.26
+        },
+        {
+          "name": "Local Lodging Tax",
+          "amount": 4.39
+        }
+      ]
+    }
+  ]
+}
