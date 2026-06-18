@@ -7,7 +7,7 @@
 
 **A free, MIT-licensed dataset of US state sales tax rates and lodging tax rates for 2026.** Statewide rate, average combined rate (state + local), lodging-specific taxes (TOT, occupancy, tourism assessment), grocery taxation rules, top 5 cities, and state nicknames — for all 50 US states.
 
-Compiled and maintained by [ReceiptEdit](https://receiptedit.com), the free receipt generator. **Attribution is required** — please credit the source when you use this data.
+Compiled and maintained by [ReceiptEdit](https://receiptedit.com). Released under MIT — free for any use, commercial or personal. Attribution appreciated but not required.
 
 ---
 
@@ -148,15 +148,11 @@ This dataset is being used for:
 
 ---
 
-## 📜 License & Attribution
+## 📜 License
 
-**MIT License with attribution requirement.**
+**MIT License.** Free for any use, commercial or personal. No attribution required.
 
-You may use this data for any purpose — commercial or personal — provided you include a visible attribution link on the page or app where the data appears:
-
-> Data by [ReceiptEdit](https://receiptedit.com)
-
-The API responses already include this in an `attribution` field. The embeddable widget already displays it. For raw data files, please add the link manually.
+If you do want to credit the source, a link to [ReceiptEdit](https://receiptedit.com) is appreciated — but it's entirely optional.
 
 See [`LICENSE`](./LICENSE) for the full text.
 
